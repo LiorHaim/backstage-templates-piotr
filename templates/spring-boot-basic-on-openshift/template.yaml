@@ -13,7 +13,7 @@ metadata:
     - openshift
     - argocd
 spec:
-  owner: liorhaim
+  owner: quarkus-team
   system: microservices
   type: service
 
