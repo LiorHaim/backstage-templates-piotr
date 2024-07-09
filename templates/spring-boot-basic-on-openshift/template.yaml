@@ -33,9 +33,9 @@ spec:
         - clusterDomain
       properties:
         orgName:
-          title: Organization name
+          title: Github organization name
           type: string
-          default: liorhaim
+          default: lior-rhdh-org
         appName:
           title: App name
           type: string
